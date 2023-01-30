@@ -1,3 +1,6 @@
+//Allen Carlo S. Serrano
+//WD - 201
+
 var { add, subtract, multiply, divide } = require('./calculation.js');
 
 var RPH = 300;
