@@ -1,3 +1,9 @@
+//Task Name: Lab 3
+//Author: Allen Serrano
+//Section: WD-201
+
+//Use require to import local module
+
 var http = require('http');
 
 var server = http.createServer(function (req, res) {
