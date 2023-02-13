@@ -1,7 +1,7 @@
 //Allen Serrano
 //WD - 201
 
-var { greet, congratulations, farewell } = require('./function.js');
+var { greet, congratulations, farewell } = require('./message.js');
 
 var name = 'Allen Serrano';
 
