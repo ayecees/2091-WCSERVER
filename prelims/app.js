@@ -1,3 +1,3 @@
-var myLogModule = require("./utility/log.js");
+var myLogModule = require('./utility/log.js');
 
-myLogModule.warning("Warning node not found..");
+myLogModule.warning('Warning node not found..');
